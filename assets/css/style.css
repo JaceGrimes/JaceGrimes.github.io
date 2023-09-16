@@ -100,7 +100,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: #0077ff85;
 }
 
 .overlay-mf {
@@ -1059,7 +1059,7 @@ a:hover {
 # Testimonials
 --------------------------------------------------------------*/
 .testimonial-box {
-  color: #fff;
+  color: #ffffff;
   text-align: center;
 }
 
@@ -1072,7 +1072,7 @@ a:hover {
 }
 
 .testimonial-box .author {
-  color: #000000;
+  color: #ffffff;
   text-transform: uppercase;
   font-weight: 600;
   margin: 1rem 0;
@@ -1082,7 +1082,7 @@ a:hover {
 
 .testimonial-box .comit {
   font-size: 2rem;
-  color: #0078ff;
+  color: #ffffff05;
   background-color: #fff;
   width: 52px;
   height: 52px;
@@ -1110,21 +1110,6 @@ a:hover {
   }
 }
 
-.swiper-pagination {
-  margin-top: 20px;
-  position: relative;
-}
-
-.swiper-pagination .swiper-pagination-bullet {
-  width: 12px;
-  height: 12px;
-  background-color: rgba(255, 255, 255, 0.4);
-  opacity: 1;
-}
-
-.swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #fff;
-}
 
 /*--------------------------------------------------------------
 # Contact
